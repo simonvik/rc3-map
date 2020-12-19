@@ -67,7 +67,7 @@
                  "id":808,
                  "properties":[
                         {
-                         "name":"collider",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -76,7 +76,7 @@
                  "id":809,
                  "properties":[
                         {
-                         "name":"collider",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -85,7 +85,7 @@
                  "id":816,
                  "properties":[
                         {
-                         "name":"collider",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -94,7 +94,7 @@
                  "id":817,
                  "properties":[
                         {
-                         "name":"collider",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
